@@ -1,0 +1,36 @@
+.about_container{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+}
+
+p{
+  color: white !important;
+}
+
+.about_me, .about_more{
+ display: flex;
+ flex-direction: column;
+ gap: 2rem;
+ align-items: center;
+}
+
+
+.cv_btn{
+  background-color: var(--color-light);
+  color: var(--color-bg);
+  width: max-content;
+  padding: 1rem 2rem;
+  border-radius: 4rem;
+  font-weight: 500;
+}
+
+@media screen and (max-width: 600px) {
+  .about_me>p{
+    text-align: justify;
+  }
+
+}
