@@ -2,6 +2,7 @@ import React from 'react'
 import './exp.css'
 import IMG1 from './../../asset/img/project1.png'
 import IMG2 from './../../asset/img/project2.png'
+import IMG3 from './../../asset/img/project2.png'
 
 const project =[
   {
@@ -26,13 +27,13 @@ const project =[
   },
   {
     id: 3,
-    img: IMG1,
-    title: 'Website Cafe',
+    img: IMG3,
+    title: 'WEEKEND',
     skill1: 'React.JS',
     skill2: 'HTML',
     skill3: 'CSS',
-    demo: 'https://coffee-time-eight.vercel.app/',
-    code: 'https://github.com/fajrisss/coffee-time',
+    demo: 'https://weekend-4qa3.vercel.app/',
+    code: 'https://github.com/fajrisss/weekend',
   },
 ]
 
