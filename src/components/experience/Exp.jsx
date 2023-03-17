@@ -2,7 +2,7 @@ import React from 'react'
 import './exp.css'
 import IMG1 from './../../asset/img/project1.png'
 import IMG2 from './../../asset/img/project2.png'
-import IMG3 from './../../asset/img/project2.png'
+import IMG3 from './../../asset/img/project3.png'
 
 const project =[
   {
