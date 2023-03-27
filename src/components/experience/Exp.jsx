@@ -3,6 +3,7 @@ import './exp.css'
 import IMG1 from './../../asset/img/project1.png'
 import IMG2 from './../../asset/img/project2.png'
 import IMG3 from './../../asset/img/project3.png'
+import IMG4 from './../../asset/img/project4.png'
 
 const project =[
   {
@@ -37,7 +38,7 @@ const project =[
   },
   {
     id: 4,
-    img: IMG3,
+    img: IMG4,
     title: 'my-Cloth',
     skill1: 'React.JS',
     skill2: 'HTML',
