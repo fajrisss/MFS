@@ -35,6 +35,16 @@ const project =[
     demo: 'https://weekend-4qa3.vercel.app/',
     code: 'https://github.com/fajrisss/weekend',
   },
+  {
+    id: 4,
+    img: IMG3,
+    title: 'my-Cloth',
+    skill1: 'React.JS',
+    skill2: 'HTML',
+    skill3: 'CSS',
+    demo: 'https://my-cloth.vercel.app/',
+    code: 'https://github.com/fajrisss/my-Cloth',
+  },
 ]
 
 const Exp = () => {
