@@ -50,7 +50,7 @@ const project =[
   {
     id: 5,
     img: IMG5,
-    title: 'TOKUKO ( on process)',
+    title: 'TOKOKU ( on process)',
     skill1: 'React.JS',
     skill2: 'HTML',
     skill3: 'CSS',
