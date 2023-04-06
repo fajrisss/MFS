@@ -46,6 +46,16 @@ const project =[
     demo: 'https://my-cloth.vercel.app/',
     code: 'https://github.com/fajrisss/my-Cloth',
   },
+  {
+    id: 5,
+    img: IMG4,
+    title: 'TOKUKO (process)',
+    skill1: 'React.JS',
+    skill2: 'HTML',
+    skill3: 'CSS',
+    demo: 'https://tokokuu.vercel.app/',
+    code: 'https://github.com/fajrisss/ecommerce',
+  },
 ]
 
 const Exp = () => {
