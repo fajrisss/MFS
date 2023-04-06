@@ -4,6 +4,7 @@ import IMG1 from './../../asset/img/project1.png'
 import IMG2 from './../../asset/img/project2.png'
 import IMG3 from './../../asset/img/project3.png'
 import IMG4 from './../../asset/img/project4.png'
+import IMG5 from './../../asset/img/project5.png'
 
 const project =[
   {
@@ -48,8 +49,8 @@ const project =[
   },
   {
     id: 5,
-    img: IMG4,
-    title: 'TOKUKO (process)',
+    img: IMG5,
+    title: 'TOKUKO ( on process)',
     skill1: 'React.JS',
     skill2: 'HTML',
     skill3: 'CSS',
