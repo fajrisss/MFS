@@ -5,6 +5,7 @@ import IMG2 from './../../asset/img/project2.png'
 import IMG3 from './../../asset/img/project3.png'
 import IMG4 from './../../asset/img/project4.png'
 import IMG5 from './../../asset/img/project5.png'
+import IMG6 from './../../asset/img/project6.png'
 
 const project =[
   {
@@ -56,6 +57,16 @@ const project =[
     skill3: 'CSS',
     demo: 'https://tokokuu.vercel.app/',
     code: 'https://github.com/fajrisss/ecommerce',
+  },
+  {
+    id: 6,
+    img: IMG6,
+    title: 'Company Landing',
+    skill1: 'React.JS',
+    skill2: 'HTML',
+    skill3: 'Tailwindcss',
+    demo: 'https://company-red.vercel.app/',
+    code: 'https://github.com/fajrisss/landing-company',
   },
 ]
 
