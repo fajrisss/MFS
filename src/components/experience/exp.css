@@ -22,7 +22,6 @@
   display: flex;
   flex-wrap: wrap;
   flex-direction: row-reverse;
-  grid-template-columns: repeat(3, 1fr);
   justify-content: center;
   gap: 1rem;
 }
@@ -78,7 +77,6 @@
 
 @media screen and (max-width: 600px) {
   .project_container{
-    grid-template-columns: 1fr;
     flex-direction: column-reverse;
   }
 
