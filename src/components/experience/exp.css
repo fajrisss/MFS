@@ -1,7 +1,7 @@
 .exp_container{
   height: 100vh;
   display: flex;
-  flex-direction: column;
+  flex-direction: column-reverse;
   gap: 3rem;
   text-align: center;
   justify-content: center;
