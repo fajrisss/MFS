@@ -80,7 +80,7 @@
   }
 
   .exp_container{
-    height: 170vh;
+    height: max-content;
   }
 
 }
