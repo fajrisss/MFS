@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import CV from './../../asset/img/M. Fajjris Shoba00.pdf'
+import CV from './../../asset/img/M. Fajjris Shoba_CV.pdf'
 import {BsDownload} from 'react-icons/bs'
 
 const About = () => {
